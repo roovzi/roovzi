@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tauqeer</h1>
 <h3 align="center">A passionate developer from 🇵🇰</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtauqeerr" alt="ahmedtauqeerr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahmedtauqeerr" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedtauqeerr?logo=twitter&style=for-the-badge" alt="ahmedtauqeerr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
